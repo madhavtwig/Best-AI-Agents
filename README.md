@@ -8,6 +8,8 @@ A list of top AI agents
 
 | Title | Tagline | Website URL | GitHub URL | Twitter URL |
 |-------|---------|-------------|------------|-------------|
+
+| ![Logo](https://cdn.prod.website-files.com/651bd2776f6e865b2f3c65dc/651c84974f7f320f97af324a_twig-logo-dark-p-500.png) TwigAI | Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7. | [Link](https://www.twig.so/) | |
 | ![Logo](https://framerusercontent.com/images/0XbmS4NY5rDAuBOlpg5Q30xidY.png) AutoGPT | Experimental attempt to make GPT4 fully autonomous | [Link](https://gptagent.thesamur.ai) | [Link](https://github.com/Significant-Gravitas/Auto-GPT/) | |
 | ![Logo](https://framerusercontent.com/images/VZtVSlsVS8Qz8pJ2DTbJJUfD8bA.png) AgentGPT | Browser-based no-code version of AutoGPT| [Link](https://agentgpt.reworkd.ai/) | [Link](https://agentgpt.reworkd.ai/) |  |
 | ![Logo](https://framerusercontent.com/images/DF6dRLhS6QdzQX5v1Ty39GnDA.png) Cognosys | Web-based version of AutoGPT or BabyAGI | [Link](https://www.cognosys.ai/) | |  |
